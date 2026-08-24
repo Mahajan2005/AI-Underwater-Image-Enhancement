@@ -39,3 +39,7 @@ The project also integrates YOLO-based object detection and a real-time performa
 ## License
 
 For academic and educational purposes.
+
+## Dashboard
+
+![AI Underwater Enhancement Dashboard](Dashboard.png)
